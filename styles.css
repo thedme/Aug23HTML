@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #BA7DAD;
+}
+
+p {
+	padding: 2cm 4cm 3cm 4cm;
+	font-weight: 18em;
+	font-family: monospace;
+	color: purple;
+	/*
+		Yes, I know, my eyes are horrible, that is why the font is so big.
+		p.s. this was not auto ipsum-generated.
+    */
+	font-size: 5em;
+}
